@@ -1,4 +1,4 @@
-# Hi, I am Devashish Pimpalkar
+# Hi, I'm Devashish Pimpalkar
 
 
 # 💫 About Me:
