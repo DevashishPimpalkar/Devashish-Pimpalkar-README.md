@@ -15,8 +15,14 @@
 ![](https://streak-stats.demolab.com/?user=DevashishPimpalkar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DevashishPimpalkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevashishPimpalkar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏅 Digital Badges
+
+### Holopin
+[![An image of @devashishpimpalkar's Holopin badges](https://holopin.me/devashishpimpalkar)](https://www.holopin.io/@devashishpimpalkar)
+
+### MongoDB
+[![MongoDB Badge](mongodb-basics-for-students.png)](https://www.credly.com/badges/d8c1d1a9-144f-4a7e-89e9-cd9359aac208/public_url)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevashishPimpalkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
