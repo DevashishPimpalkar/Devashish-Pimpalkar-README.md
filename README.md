@@ -1,3 +1,6 @@
+# Hi, I am Devashish Pimpalkar
+
+
 # 💫 About Me:
 - 🌱 Learning Software Development and exploring AI concepts  <br>- 💻 Working with Python and Linux for building and practice  <br>- 🧠 Interested in systems, networking, and understanding how things work behind the scenes  <br>- 🔍 Explored network analysis basics using tools like Wireshark  <br>- 🚀 Interested in hackathons, tech communities, and continuous growth  
 
